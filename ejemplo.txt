@@ -1,3 +1,2 @@
-<?
-echo "hola mundo"
 jajaj estoy perdida perdida 
+no se que estoy haciendo
